@@ -1,0 +1,21 @@
+body{
+  background: url(./../img/Train4.jpg);
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  width: 100%;
+  background-size: 100%;
+  background-repeat: inherit;
+}
+
+.card-panel1 {
+  background-color: #BB38A3;
+  padding: 30px;
+}
+
+h4 {
+  color:#BB38A3; 	
+}
+
+.btn-large {
+	background-color: #BB38A3;
+}
+
